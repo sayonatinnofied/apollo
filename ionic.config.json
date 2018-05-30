@@ -1,0 +1,8 @@
+{
+  "name": "Apollo",
+  "app_id": "2c7bc6c6",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
